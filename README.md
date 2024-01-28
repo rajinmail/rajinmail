@@ -12,7 +12,7 @@
 - 💬 Ask me about **Machine Learning,Data Mining,Deep Learning,Neural Network**
 
 - 📫any freelance work? do reach **rajinsalehbd@gmail.com**
-
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajinmail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajinmail" height="30" width="40" /></a>
