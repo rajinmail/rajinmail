@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Machine Learning,Data Mining,Deep Learning,Neural Network**
 
-- 📫 Any freelance work? do reach, [email](rajinsalehbd@gmail.com)
+- 💼 Any freelance work? do reach, [email](mailto:rajinsalehbd@gmail.com)
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
